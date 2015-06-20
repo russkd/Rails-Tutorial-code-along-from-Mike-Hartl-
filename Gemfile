@@ -38,6 +38,7 @@ group :development, :test do
   gem 'byebug', '4.0.5'
   gem 'web-console', '2.1.2'
   gem 'spring', '1.3.6'
+  gem 'better_errors'
 end
 
 group :test do
